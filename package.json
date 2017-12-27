@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "D:\\MyWorkSpace\\Projects\\node\\webpack-dev-server --watch"
+    "start": "..\\node\\webpack-dev-server --watch"
   },
   "author": "Mr Tuyen Ha",
   "license": "ISC",
