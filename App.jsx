@@ -4,7 +4,7 @@ class App extends React.Component {
    render() {
       return (
          <div>
-            Hello world! hihi
+            Hello world! hihi what the hell?
          </div>
       );
    }
