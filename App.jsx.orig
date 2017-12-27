@@ -1,0 +1,18 @@
+import React from 'react';
+
+class App extends React.Component {
+   render() {
+      return (
+         <div>
+<<<<<<< HEAD
+			Hello world! hihi hohdadao Lam
+=======
+
+            Hello world! hihi what the?
+
+>>>>>>> 9a9b86655d66881bfafa5c8b8ad02210d3aee172
+         </div>
+      );
+   }
+}
+export default App;
